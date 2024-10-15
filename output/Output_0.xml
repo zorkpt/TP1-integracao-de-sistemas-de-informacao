@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item>
+        <titulo>THE NEW COSMOS</titulo>
+        <ano_publicacao>2013</ano_publicacao>
+        <paginas>571</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Albrecht Unsöld</item>
+            <item>Bodo Baschek</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Albrecht Unsöld</autor_principal>
+        <autor_data_nasciment>1905-04-20</autor_data_nasciment>
+        <autor_local_nascimento>Alemanha</autor_local_nascimento>
+        <autor_idade_na_publicacao>108</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>MISERY</titulo>
+        <ano_publicacao>2014</ano_publicacao>
+        <paginas>366</paginas>
+        <linguagem>Portugues</linguagem>
+        <autores>
+            <item>Stephen King</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Stephen King</autor_principal>
+        <autor_data_nasciment>1947-09-21</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>67</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>3.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>HARRY POTTER E OS TALISMÃS DA MORTE</titulo>
+        <ano_publicacao>2007</ano_publicacao>
+        <paginas>608</paginas>
+        <linguagem>Portugues</linguagem>
+        <autores>
+            <item>J. K. Rowling</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>J. K. Rowling</autor_principal>
+        <autor_data_nasciment>1965-07-31</autor_data_nasciment>
+        <autor_local_nascimento>Reino Unido</autor_local_nascimento>
+        <autor_idade_na_publicacao>42</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>2.5</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>HARRY POTTER E A ORDEM DA FÉNIX</titulo>
+        <ano_publicacao>2003</ano_publicacao>
+        <paginas>750</paginas>
+        <linguagem>Portugues</linguagem>
+        <autores>
+            <item>J. K. Rowling</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>J. K. Rowling</autor_principal>
+        <autor_data_nasciment>1965-07-31</autor_data_nasciment>
+        <autor_local_nascimento>Reino Unido</autor_local_nascimento>
+        <autor_idade_na_publicacao>38</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>2.5</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>HARRY POTTER E O CÁLICE DE FOGO</titulo>
+        <ano_publicacao>2002</ano_publicacao>
+        <paginas>591</paginas>
+        <linguagem>Portugues</linguagem>
+        <autores>
+            <item>J. K. Rowling</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>J. K. Rowling</autor_principal>
+        <autor_data_nasciment>1965-07-31</autor_data_nasciment>
+        <autor_local_nascimento>Reino Unido</autor_local_nascimento>
+        <autor_idade_na_publicacao>37</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>2.5</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>BEAUTIFUL CREATURES</titulo>
+        <ano_publicacao>2010</ano_publicacao>
+        <paginas>538</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Kami Garcia</item>
+            <item>Margaret Stohl</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Kami Garcia</autor_principal>
+        <autor_data_nasciment>1972-03-25</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>38</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>THE HUNGER GAMES</titulo>
+        <ano_publicacao>2008</ano_publicacao>
+        <paginas>374</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Suzanne Collins</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Suzanne Collins</autor_principal>
+        <autor_data_nasciment>1962-08-10</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>46</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>1.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>CATCHING FIRE</titulo>
+        <ano_publicacao>2009</ano_publicacao>
+        <paginas>499</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Suzanne Collins</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Suzanne Collins</autor_principal>
+        <autor_data_nasciment>1962-08-10</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>47</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>1.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>MOCKINGJAY</titulo>
+        <ano_publicacao>2010</ano_publicacao>
+        <paginas>390</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Suzanne Collins</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Suzanne Collins</autor_principal>
+        <autor_data_nasciment>1962-08-10</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>48</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>1.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>DIVERGENT</titulo>
+        <ano_publicacao>2012</ano_publicacao>
+        <paginas>576</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Veronica Roth</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Veronica Roth</autor_principal>
+        <autor_data_nasciment>1988-08-19</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>24</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>1.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>ALLEGIANT</titulo>
+        <ano_publicacao>2013</ano_publicacao>
+        <paginas>544</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Veronica Roth</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Veronica Roth</autor_principal>
+        <autor_data_nasciment>1988-08-19</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>25</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>1.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>THE FAULT IN OUR STARS</titulo>
+        <ano_publicacao>2012</ano_publicacao>
+        <paginas>337</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>John Green</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>John Green</autor_principal>
+        <autor_data_nasciment>1977-08-24</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>35</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>TO KILL A MOCKINGBIRD</titulo>
+        <ano_publicacao>2006</ano_publicacao>
+        <paginas>346</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Harper Lee</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Harper Lee</autor_principal>
+        <autor_data_nasciment>1926-04-28</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>80</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>THE GREAT GATSBY</titulo>
+        <ano_publicacao>2004</ano_publicacao>
+        <paginas>208</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>F. Scott Fitzgerald</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>F. Scott Fitzgerald</autor_principal>
+        <autor_data_nasciment>1896-09-24</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>108</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>MOBY-DICK</titulo>
+        <ano_publicacao>2002</ano_publicacao>
+        <paginas>724</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Herman Melville</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Herman Melville</autor_principal>
+        <autor_data_nasciment>1819-08-01</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>183</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>WAR AND PEACE</titulo>
+        <ano_publicacao>2008</ano_publicacao>
+        <paginas>1298</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Leo Tolstoy</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Leo Tolstoy</autor_principal>
+        <autor_data_nasciment>1828-08-28</autor_data_nasciment>
+        <autor_local_nascimento>Império Russo</autor_local_nascimento>
+        <autor_idade_na_publicacao>180</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>SOMBRAS DE ANTEPASSADOS ESQUECIDOS: EM BUSCA DO QUE SOMOS</titulo>
+        <paginas>432</paginas>
+        <linguagem>Portugues</linguagem>
+        <autores>
+            <item>Carl Sagan</item>
+            <item>Ann Druyan</item>
+            <item>Jorge Branco</item>
+            <item>Lucinda Santos Silva</item>
+            <item>Luís Narciso</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Carl Sagan</autor_principal>
+        <autor_data_nasciment>1934-11-09</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <categoria_tamanho_livro>Longo</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Erro nos dados</media_anos_entre_publicacoes>
+    </item>
+    <item>
+        <titulo>FLOWERS FOR ALGERNON</titulo>
+        <ano_publicacao>2004</ano_publicacao>
+        <paginas>326</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Daniel Keyes</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Daniel Keyes</autor_principal>
+        <autor_data_nasciment>1927-08-09</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>77</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Médio</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>OLIVER TWIST</titulo>
+        <ano_publicacao>2003</ano_publicacao>
+        <paginas>128</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Charles Dickens</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Charles Dickens</autor_principal>
+        <autor_data_nasciment>1812-02-07</autor_data_nasciment>
+        <autor_local_nascimento>Reino Unido da Grã-Bretanha e Irlanda</autor_local_nascimento>
+        <autor_idade_na_publicacao>191</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Curto</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>Autor de livro único</media_anos_entre_publicacoes>
+        <decada_publicacao>2E+3</decada_publicacao>
+    </item>
+    <item>
+        <titulo>THE STAND</titulo>
+        <ano_publicacao>2011</ano_publicacao>
+        <paginas>0</paginas>
+        <linguagem>Ingles</linguagem>
+        <autores>
+            <item>Stephen King</item>
+        </autores>
+        <pais>PT</pais>
+        <autor_principal>Stephen King</autor_principal>
+        <autor_data_nasciment>1947-09-21</autor_data_nasciment>
+        <autor_local_nascimento>Estados Unidos</autor_local_nascimento>
+        <autor_idade_na_publicacao>64</autor_idade_na_publicacao>
+        <categoria_tamanho_livro>Curto</categoria_tamanho_livro>
+        <media_anos_entre_publicacoes>3.0</media_anos_entre_publicacoes>
+        <decada_publicacao>2.01E+3</decada_publicacao>
+    </item>
+</root>
