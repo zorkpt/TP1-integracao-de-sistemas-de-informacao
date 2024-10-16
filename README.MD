@@ -1,11 +1,34 @@
 # Projeto de Integração de Sistemas de Informação: Análise de Livros e Autores
 
+## Índice
+
+1. [Enquadramento](#1-enquadramento)
+2. [Problema](#2-problema)
+3. [Estratégia Utilizada](#3-estrat%C3%A9gia-utilizada)
+   3.1. [Extração de Dados (Extract)](#31-extra%C3%A7%C3%A3o-de-dados-extract)
+   3.2. [Transformação de Dados (Transform)](#32-transforma%C3%A7%C3%A3o-de-dados-transform)
+   3.3. [Integração e Merging de Dados](#33-integra%C3%A7%C3%A3o-e-merging-de-dados)
+   3.4. [Carregamento e Exportação de Dados (Load)](#34-carregamento-e-exporta%C3%A7%C3%A3o-de-dados-load)
+   3.5. [Visualização e Análise](#35-visualiza%C3%A7%C3%A3o-e-an%C3%A1lise)
+4. [Transformações](#4-transforma%C3%A7%C3%B5es)
+   4.1. [Normalização de Dados do Autor](#41-normaliza%C3%A7%C3%A3o-de-dados-do-autor)
+   4.2. [Obtenção de Dados Adicionais do Autor](#42-obten%C3%A7%C3%A3o-de-dados-adicionais-do-autor)
+   4.3. [Normalização de Dados do Livro](#43-normaliza%C3%A7%C3%A3o-de-dados-do-livro)
+5. [Conclusão e Trabalhos Futuros](#5-conclus%C3%A3o-e-trabalhos-futuros)
+   5.1. [Resumo dos Objetivos Alcançados](#51-resumo-dos-objetivos-alcan%C3%A7ados)
+   5.2. [Desafios Enfrentados](#52-desafios-enfrentados)
+   5.3. [Possíveis Melhorias Futuras](#53-poss%C3%ADveis-melhorias-futuras)
+6. [Instruções de uso](#6-instru%C3%A7%C3%B5es-de-uso)
+7. [Referências Bibliográficas](#7-refer%C3%AAncias-bibliogr%C3%A1ficas)
+
+
 ## 1. Enquadramento
 
 - **Aluno:** Hugo Poças
 - **Número:** 26339
 - **Unidade Curricular:** Integração de Sistemas de Informação
 - **Curso:** Licenciatura em Engenharia de Sistemas Informáticos
+
 
 ## 2. Problema
 
@@ -197,7 +220,7 @@ Foi utilizada a versão Knime 5.3.2
 2. No nó "JSON Reader", configurar o caminho para o ficheiro keys.json
 3. Verificar se todos os caminhos de saída (para JSON, XML, CSV) estão configurados corretamente
 
-## 6. Referências Bibliográficas
+## 7. Referências Bibliográficas
 
 1. [Documentação do KNIME](https://docs.knime.com/)
 2. [Documentação da API do Google Books](https://developers.google.com/books)
